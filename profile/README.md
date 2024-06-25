@@ -1,1 +1,16 @@
-test
+# [소프트웨어공학] DeadLock
+
+## About
+
+> 해당 프로젝트는 소프트웨어 공학 수업에서 진행 중이며, `뇌졸중 위험 예방 및 관리 시스템`을 주제로한 서비스입니다.
+
+---
+
+## Service Architecture
+
+### Service Client ⭤ Service Server ⭤ Model Server, ChatGPT
+
+- [Service Client](https://github.com/knu-software-engineering-team05/dead-lock-frontend)
+- [Service Server](https://github.com/knu-software-engineering-team05/dead-lock-backend)
+- [Model Server](https://github.com/knu-software-engineering-team05/Modeling_Stroke)
+- ChatGPT 3.5 Turbo
