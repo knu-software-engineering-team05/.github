@@ -20,3 +20,7 @@
 
 ### Cloud Deploy Architecture
 ![CloudArchitecture](https://github.com/knu-software-engineering-team05/.github/assets/55488800/6b53aca0-7873-41be-97d4-69d590522964)
+
+## 이슈 및 일정 관리
+
+- [Github Project](https://github.com/orgs/knu-software-engineering-team05/projects/1/views/2)
