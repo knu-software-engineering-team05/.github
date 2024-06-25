@@ -14,3 +14,9 @@
 - [Service Server](https://github.com/knu-software-engineering-team05/dead-lock-backend)
 - [Model Server](https://github.com/knu-software-engineering-team05/Modeling_Stroke)
 - ChatGPT 3.5 Turbo
+
+### System Architecture
+![SystemArchitecture](https://github.com/knu-software-engineering-team05/.github/assets/55488800/33ffef9a-97c4-4d15-a418-142727af615a)
+
+### Cloud Deploy Architecture
+![CloudArchitecture](https://github.com/knu-software-engineering-team05/.github/assets/55488800/6b53aca0-7873-41be-97d4-69d590522964)
